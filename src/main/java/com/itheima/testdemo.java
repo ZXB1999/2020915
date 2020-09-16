@@ -1,7 +1,6 @@
 package com.itheima;
 
 
-import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.Test;
 
 public class testdemo {
@@ -12,5 +11,6 @@ public class testdemo {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("hello");
+        System.out.println("hellodsd");
     }
 }
