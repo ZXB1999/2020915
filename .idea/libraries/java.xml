@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../SSMCOURSE/apache-tomcat-8.0.41/lib" />
+      <root url="jar://$PROJECT_DIR$/../../MavenSpace/MavenRepository/maven_jar/junit/junit/4.13/junit-4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../SSMCOURSE/apache-tomcat-8.0.41/lib" recursive="false" />
+  </library>
+</component>

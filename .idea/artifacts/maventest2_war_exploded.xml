@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="maventest2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/maventest2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="maventest2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="maventest2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
