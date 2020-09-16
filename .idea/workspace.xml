@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b295065-0d85-4a48-b8d2-3fb1871b9a19" name="Default Changelist" comment="" />
+    <list default="true" id="9b295065-0d85-4a48-b8d2-3fb1871b9a19" name="Default Changelist" comment="test01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -33,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hWwCEdvWs2JtXbO47rTACCjOHr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,8 +46,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MavenSpace/MavenRepository/maven_jar/junit/junit/4.13/junit-4.13.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4652278" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -250,12 +254,24 @@
       <workItem from="1600166994704" duration="2073000" />
       <workItem from="1600169135907" duration="465000" />
       <workItem from="1600218128141" duration="3956000" />
-      <workItem from="1600245034376" duration="84000" />
+      <workItem from="1600245034376" duration="477000" />
     </task>
+    <task id="LOCAL-00001" summary="test01">
+      <created>1600245447953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600245447953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test01" />
+    <option name="LAST_COMMIT_MESSAGE" value="test01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1600152885089">
@@ -282,10 +298,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600154044041" />
-    <state x="154" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600245068995">
+    <state x="154" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600245324084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="154" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1600245068995" />
+    <state x="154" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1600245324084" />
     <state x="444" y="377" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1600154731066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,26 +318,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="433" y="365" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600155350550" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600220562322">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600245388410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600220562322" />
-    <state width="1382" height="223" key="GridCell.Tab.0.bottom" timestamp="1600226966230">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600245388410" />
+    <state x="640" y="309" key="Github.ShareDialog" timestamp="1600245208863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1382" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600226966230" />
-    <state width="1382" height="223" key="GridCell.Tab.0.center" timestamp="1600226966229">
+    <state x="640" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600245208863" />
+    <state x="497" y="116" key="Github.UntrackedFilesDialog" timestamp="1600245224193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1382" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600226966229" />
-    <state width="1382" height="223" key="GridCell.Tab.0.left" timestamp="1600226966229">
+    <state x="497" y="116" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600245224193" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600245451332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1382" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600226966229" />
-    <state width="1382" height="223" key="GridCell.Tab.0.right" timestamp="1600226966230">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600245451332" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600245451331">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1382" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600226966230" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600245451331" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600245451331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600245451331" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600245451332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600245451332" />
     <state width="1382" height="223" key="GridCell.Tab.1.bottom" timestamp="1600226966230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -354,10 +378,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1382" height="223" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600226966230" />
-    <state x="39" y="90" width="996" height="707" key="SettingsEditor" timestamp="1600245140160">
+    <state x="39" y="90" width="996" height="707" key="SettingsEditor" timestamp="1600245372062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="39" y="90" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600245140160" />
+    <state x="39" y="90" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600245372062" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600168653276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
